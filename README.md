@@ -1,6 +1,6 @@
 # Cosplay AI V1
 
-An AI-powered tool for creators and cosplay enthusiasts to generate professional cosplay images from their photos using Google Imagen Pro API.
+An AI-powered tool for creators and cosplay enthusiasts to generate professional cosplay images from their photos.
 
 ## Features
 
